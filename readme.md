@@ -8,6 +8,6 @@ link to demo:
 
 ## Dashboard
 
+![Screenshot 2024-01-01 005330](https://github.com/bhavanachitragar/Indian-startup-funding/assets/91766461/aa357b46-75f2-4900-9e5a-4ef268d1b336)
 
-
-
+![Screenshot 2024-01-01 005203](https://github.com/bhavanachitragar/Indian-startup-funding/assets/91766461/da6c9347-0c00-4f46-882c-e041f8d1b030)
