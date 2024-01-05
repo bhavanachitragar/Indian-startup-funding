@@ -1,1 +1,0 @@
-# Indian-startup-funding
